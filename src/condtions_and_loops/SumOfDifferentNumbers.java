@@ -20,5 +20,6 @@ public class SumOfDifferentNumbers {
             }
         }while(number != 0);
         System.out.println(positiveEven+" "+positiveOdd+" "+negative);
+        //comment
     }
 }
